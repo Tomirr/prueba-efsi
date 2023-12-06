@@ -1,0 +1,19 @@
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .movie {
+    width: 200px; 
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .movie img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; 
+  }
+  
+  
