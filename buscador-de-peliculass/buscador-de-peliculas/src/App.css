@@ -31,6 +31,23 @@ h1 {
   margin-bottom: 20px;
 }
 
+.opciones{
+  flex-grow:1;
+  margin-right: 10px;
+  
+}
+select {
+  border: 0;
+  background-color: #61dafb;
+  outline: 0;
+  font: inherit;
+  margin-right: 10px;
+  width: 10rem;
+  height: 3rem;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
 input {
   padding: 10px;
   flex-grow: 1;
